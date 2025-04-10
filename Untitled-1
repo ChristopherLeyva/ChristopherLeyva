@@ -1,0 +1,7 @@
+
+- CLIENT ID: d700d42a7e1e42eab9f815a806b5b270
+- SECRET ID: fd19f8187b11463b8a37a9559d61335f
+
+URL:
+
+https://accounts.spotify.com/authorize?client_id={d700d42a7e1e42eab9f815a806b5b270}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=https://localhost/callback/

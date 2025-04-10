@@ -16,3 +16,4 @@
 
 ### Spotify Playing 🎧
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
