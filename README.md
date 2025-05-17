@@ -17,7 +17,7 @@
 ## 🎧 Spotify
 <div style="display: flex; justify-content: center;">
     <a href="https://open.spotify.com/user/315vw3bhsekaf6d7ewzcml2jjepy">
-        <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=315vw3bhsekaf6d7ewzcml2jjepy&unique={true|1|on|yes}" alt="Spotify">
     </a>
 </div>
 
