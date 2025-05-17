@@ -17,8 +17,9 @@
 ## 🎧 Spotify
 <div style="display: flex; justify-content: center;">
     <a href="https://open.spotify.com/user/315vw3bhsekaf6d7ewzcml2jjepy">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315vw3bhsekaf6d7ewzcml2jjepy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315vw3bhsekaf6d7ewzcml2jjepy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)" alt="Spotify">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315vw3bhsekaf6d7ewzcml2jjepy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false" alt="Spotify">
     </a>
 </div>
+
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
