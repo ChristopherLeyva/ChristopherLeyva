@@ -17,7 +17,7 @@
 ## 🎧 Spotify
 <div style="display: flex; justify-content: center;">
     <a href="https://open.spotify.com/user/315vw3bhsekaf6d7ewzcml2jjepy">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=315vw3bhsekaf6d7ewzcml2jjepy&unique={true|1|on|yes}" alt="Spotify">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315vw3bhsekaf6d7ewzcml2jjepy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=315vw3bhsekaf6d7ewzcml2jjepy&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)" alt="Spotify">
     </a>
 </div>
 
